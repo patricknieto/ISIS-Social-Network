@@ -11,4 +11,7 @@ Keyword Analysis: Which keywords derived from the name, username, description, l
 
 The notebook file in this repo walks through my process of identifying clusters based on words and language, as well as building nodes and edges for a network graph.
 
-Check out my visualization at [app.patricknieto.com](http://app.patricknieto.com)
+Check out my [presentation](http://slides.com/patricknieto/isis#/) and my [visualization](http://app.patricknieto.com)
+
+
+Thanks for dropping by! :smile:
